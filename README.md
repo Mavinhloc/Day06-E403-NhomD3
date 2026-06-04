@@ -5,7 +5,7 @@
 ---
 
 ## Thành viên nhóm
-- Mã Vĩnh Lộc
+- Mã Vĩnh Lộc - 2A202600975
 - Nguyễn Khánh Bằng - 2A202600693
 ---
 
