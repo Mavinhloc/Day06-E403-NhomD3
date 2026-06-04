@@ -4,6 +4,11 @@
 
 ---
 
+## Thành viên nhóm
+- Mã Vĩnh Lộc
+- Nguyễn Khánh Bằng - 2A202600693
+---
+
 ## Cách nộp bài
 
 **Đại diện nhóm tạo MỘT repo nhóm**, đặt tên:
